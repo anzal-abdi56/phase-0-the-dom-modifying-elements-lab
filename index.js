@@ -1,1 +1,4 @@
-// Write your code here!
+const newHeader = document.querySelector("#victory")
+newHeader.innerHTML = "YOUR-NAME is the champion"
+
+
